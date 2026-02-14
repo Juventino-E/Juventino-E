@@ -12,7 +12,7 @@
 
 --------------------------------------------------------------------
 
-## 🚀 What I'm Building
+### 🚀 What I'm Building
 
 Currently, I'm working on **[AppAmbit](http://appambit.com)** - building solutions that bridge backend systems with real-world business needs. I focus on creating APIs that developers actually enjoy using and cloud architectures that scale without breaking the bank.
 
@@ -72,7 +72,7 @@ I believe great software isn't just about the tech stack—it's about **solving 
 --------------------------------------------------------------------
 
 
-## 💼 What I Bring to the Table
+### 💼 What I Bring to the Table
 
 - **🏗️ Architecture**: Designing systems that are maintainable today and scalable tomorrow
 - **🔧 Problem Solving**: Love diving into complex challenges and emerging with elegant solutions
@@ -81,14 +81,14 @@ I believe great software isn't just about the tech stack—it's about **solving 
 
 ---
 
-## When I'm not coding:
+### When I'm not coding:
 
 Probably enjoying good food 🌮, exploring new places, or catching up on tech news
 
 ---
 
 
-## 📫 Get in Touch!
+### 📫 Get in Touch!
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech!
 
